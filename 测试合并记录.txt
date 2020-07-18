@@ -6,3 +6,4 @@ add new
 add new2
 add new3
 master change 1
+master change 2

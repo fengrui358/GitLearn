@@ -8,3 +8,5 @@ add new3
 master change 1
 master change 2
 change1
+change2
+change3

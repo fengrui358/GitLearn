@@ -2,3 +2,4 @@ line 1
 add line two
 add line three
 add by test2
+add new
